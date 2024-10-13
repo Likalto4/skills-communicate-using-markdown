@@ -16,3 +16,8 @@ We add some Python code to show how it looks in markdown language.
 import torch
 print(torch.cuda.is_available())
 ```
+
+# Adding a list
+- [ ] Finish the Markdown course
+- [ ] Open a Github page
+- [x] Update personal repository
